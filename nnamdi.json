@@ -1,0 +1,10 @@
+{
+  "firstname": "Yehuda",
+  "lastname": "Katz",
+   "name":"Nnamdi",
+   "scores":[
+     {"name":"Argentina","pop":"40000"},			   {"name":"Hungary","pop":"10000"},
+     {"name":"Italy","pop":"60000"},
+     {"name":"South Korea","pop":"45000"}
+   ]
+}
